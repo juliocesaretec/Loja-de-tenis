@@ -1,0 +1,59 @@
+body {
+  background-image: url(/img/fundo.jpg);
+}
+.navbar {
+    background-color: #003366; 
+}
+.container-fluid{
+  color: aliceblue;
+}
+
+.nav-link, .navbar-brand {
+    color: #003366!important; 
+
+}
+
+.card {
+    border-radius: 15px; 
+    margin-bottom: 20px;
+}
+
+.container {
+    text-align: center; 
+}
+
+footer {
+    text-align: center; 
+    padding: 20px 0; 
+}
+
+h1, h2, h3 {
+    color: white; 
+}
+
+h1 {
+    text-align: center; 
+    padding: 10px 0; 
+}
+
+form {
+    margin: auto; 
+    max-width: 400px; 
+}
+
+label {
+    color: white; 
+}
+
+section {
+    margin-top: 40px;
+}
+.mb{
+    color: aliceblue;
+}
+.form-text{
+    color: aliceblue;
+}
+.color{
+    color: aliceblue;
+}
